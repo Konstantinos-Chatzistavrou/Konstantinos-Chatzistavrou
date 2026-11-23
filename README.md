@@ -46,10 +46,6 @@ NIS2 applies by sector and size, so it does not apply to every company.
 
 Help wanted: people with a steering wheel to judge the handling, 3D artists and bot writers.
 
-## Earlier work
-
-[Privatify](https://github.com/Konstantinos-Chatzistavrou/Privatify) (2024): an app that scans the apps on your device locally and suggests open source alternatives.
-
 ## Στα ελληνικά
 
 Είμαι ο Κωνσταντίνος Χατζησταύρου, ιδρυτής της THREAT-WATCH. Η THREAT-WATCH είναι εταιρεία διαχειριζόμενης κυβερνοασφάλειας με έδρα τη Θεσσαλονίκη, για μεσαίες επιχειρήσεις σε Ελλάδα και ΕΕ: παρακολούθηση 24/7, απόκριση σε περιστατικά, backup και ανάκαμψη από καταστροφές, και υποστήριξη συμμόρφωσης (NIS2, ISO 27001, GDPR).
