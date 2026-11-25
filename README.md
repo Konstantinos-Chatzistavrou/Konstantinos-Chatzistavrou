@@ -54,4 +54,5 @@ Help wanted: people with a steering wheel to judge the handling, 3D artists and 
 
 - Website: [threat-watch.com](https://threat-watch.com)
 - LinkedIn: [Konstantinos Chatzistavrou](https://www.linkedin.com/in/konstantinos-chatzistavrou-59801b256)
-- Email: info@threat-watch.com
+- Email: konstantinos@threat-watch.com for THREAT-WATCH 
+konstantinoschatzistavrou@gmail.com for Open Grid or other stuff 
